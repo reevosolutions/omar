@@ -1,0 +1,9 @@
+.playlist {
+  display: flex;
+}
+.playlist > .pl-items {
+  width: 25%;
+}
+.playlist > .pl-viewer {
+  width: 75%;
+}

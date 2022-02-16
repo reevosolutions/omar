@@ -1,0 +1,34 @@
+{
+  "teachers": {
+    "documents": [
+      {
+        "title": "first lesson",
+        "description": "Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Duis leo.",
+        "type": "pdf",
+        "file": "./files/pdf/lesson1.pdf"
+      },
+      {
+        "title": "third lesson lesson",
+        "description": "Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Duis leo.",
+        "type": "pdf",
+        "file": "./files/pdf/lesson3.pdf"
+      },
+      {
+        "title": "second lesson",
+        "description": "amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Duis leo.",
+        "type": "pdf",
+        "file": "./files/pdf/yalidine.pdf"
+      }
+    ],
+    "notes": {}
+  },
+  "students": {
+    "modules": {
+      "letters": {
+        "illustrations": {},
+        "articles": {},
+        "videos": {}
+      }
+    }
+  }
+}
